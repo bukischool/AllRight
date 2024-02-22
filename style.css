@@ -6,6 +6,7 @@ body {
   font-weight: 400;
   font-size: 15px;
   line-height: 22px;
+  overflow-x: hidden;
   color: #000;
   cursor: default;
 }
@@ -14,6 +15,7 @@ a {
 }
 
 .wrapper {
+  overflow: hidden;
   background-color: #55bd03;
   margin: 0 auto;
   width: 480px;
@@ -90,4 +92,6 @@ a {
 }
 .third {
   width: 35%;
+}
+@media (max-width: 499.98px) {
 }
