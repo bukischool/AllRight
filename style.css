@@ -1,6 +1,6 @@
 /* styles */
 body {
-  min-width: 480px;
+  min-width: 340px;
   background: #ddd;
   font-family: "Montserrat", sans-serif;
   font-weight: 400;
@@ -18,7 +18,7 @@ a {
   overflow: hidden;
   background-color: #55bd03;
   margin: 0 auto;
-  width: 480px;
+  width: 340px;
 }
 .title {
   font-size: 26px;
@@ -30,29 +30,29 @@ a {
 }
 .category {
   font-family: "Rubik Mono One", monospace;
-  font-size: 31px;
-  line-height: 38px;
+  font-size: 26px;
+  line-height: 30px;
   text-align: center;
   color: #fff;
 }
 .text {
   text-align: center;
   font-family: "Rubik Mono One", monospace;
-  font-size: 26px;
+  font-size: 20px;
   line-height: 38px;
 }
 .buttons {
   display: flex;
-  gap: 20px;
+  gap: 15px;
   padding: 20px 0px;
   align-items: center;
   justify-content: space-around;
   flex-wrap: wrap;
 }
 .button {
-  font-size: 26px;
+  font-size: 20px;
   font-family: "Rubik Mono One", monospace;
-  line-height: 38px;
+  line-height: 28px;
   padding: 10px 20px;
   width: 25%;
   text-align: center;
@@ -61,13 +61,14 @@ a {
   border-radius: 20px;
 }
 .big {
-  font-size: 20px;
+  font-size: 14px;
   width: 40%;
   padding: 13px;
 }
 .images {
   display: flex;
   align-items: flex-end;
+  width: 50%;
 }
 .image {
   width: 100%;
@@ -92,6 +93,4 @@ a {
 }
 .third {
   width: 35%;
-}
-@media (max-width: 499.98px) {
 }
