@@ -6,6 +6,7 @@ body {
   overflow-x: hidden;
   margin: 0 auto;
   color: #000;
+  height:100vh;
   cursor: default;
 }
 a {
