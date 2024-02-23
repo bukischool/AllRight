@@ -13,12 +13,11 @@ body {
 a {
   text-decoration: none;
 }
-
 .wrapper {
   overflow: hidden;
   background-color: #55bd03;
   margin: 0 auto;
-  width: 340px;
+	width: 480px;
 }
 .title {
   font-size: 26px;
