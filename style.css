@@ -1,12 +1,10 @@
 /* styles */
 body {
-  min-width: 340px;
+  min-width: 440px;
   background: #ddd;
   font-family: "Montserrat", sans-serif;
-  font-weight: 400;
-  font-size: 15px;
-  line-height: 22px;
   overflow-x: hidden;
+  margin: 0 auto;
   color: #000;
   cursor: default;
 }
@@ -17,7 +15,7 @@ a {
   overflow: hidden;
   background-color: #55bd03;
   margin: 0 auto;
-	width: 480px;
+  width: 480px;
 }
 .title {
   font-size: 26px;
